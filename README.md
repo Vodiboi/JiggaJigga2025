@@ -1,6 +1,6 @@
 # Jigga Jigga 2025
 
-I ran my school's annual Jigga Jigga competition this year. Jigga Jigga is an annual game competition at my school where students code bots to play a game competitively.
+I ran my school's annual Jigga Jigga competition this spring. Jigga Jigga is an annual game competition at my school where students code bots to play a game competitively.
 
 This year, the game was called "Politician Simulator", and the rules are given [here](https://docs.google.com/document/d/12al8sjD0eWckV0t4ydhDed-ewNURp6g2a1v54ZSj0Iw/edit?usp=sharing).
 
